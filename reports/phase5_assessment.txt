@@ -1,0 +1,2 @@
+- test: drawdown improved in 33% of sensitivity cases, Sharpe improved in 25%, and CAGR improved in 0%.
+- train: drawdown improved in 100% of sensitivity cases, Sharpe improved in 75%, and CAGR improved in 42%.

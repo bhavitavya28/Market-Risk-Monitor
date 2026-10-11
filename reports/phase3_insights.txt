@@ -1,0 +1,16 @@
+- Nifty 50 Threshold: High-volatility days had annualised volatility of 31.98%, versus 10.26% in Low-volatility days.
+- Nifty 50 Threshold: The worst High-regime day was -12.98%, compared with -2.33% in the Low regime.
+- Nifty 50 Threshold: The 5% VaR in the High regime was -3.10%, meaning only 5% of labelled High-regime days were worse than that threshold.
+- Nifty 50 Threshold: High-regime persistence was 95.08%, while Low-regime persistence was 95.70%; this supports the idea that volatility clusters.
+- Nifty 50 K-Means: High-volatility days had annualised volatility of 65.40%, versus 13.99% in Low-volatility days.
+- Nifty 50 K-Means: The worst High-regime day was -12.98%, compared with -4.08% in the Low regime.
+- Nifty 50 K-Means: The 5% VaR in the High regime was -5.23%, meaning only 5% of labelled High-regime days were worse than that threshold.
+- Nifty 50 K-Means: High-regime persistence was 94.23%, while Low-regime persistence was 99.16%; this supports the idea that volatility clusters.
+- S&P 500 Threshold: High-volatility days had annualised volatility of 30.95%, versus 8.45% in Low-volatility days.
+- S&P 500 Threshold: The worst High-regime day was -11.98%, compared with -2.45% in the Low regime.
+- S&P 500 Threshold: The 5% VaR in the High regime was -3.07%, meaning only 5% of labelled High-regime days were worse than that threshold.
+- S&P 500 Threshold: High-regime persistence was 96.24%, while Low-regime persistence was 92.93%; this supports the idea that volatility clusters.
+- S&P 500 K-Means: High-volatility days had annualised volatility of 73.85%, versus 12.32% in Low-volatility days.
+- S&P 500 K-Means: The worst High-regime day was -11.98%, compared with -4.10% in the Low regime.
+- S&P 500 K-Means: The 5% VaR in the High regime was -8.27%, meaning only 5% of labelled High-regime days were worse than that threshold.
+- S&P 500 K-Means: High-regime persistence was 97.78%, while Low-regime persistence was 98.71%; this supports the idea that volatility clusters.

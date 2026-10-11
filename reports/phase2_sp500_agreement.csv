@@ -1,0 +1,10 @@
+split,threshold_regime,kmeans_regime,days
+test,High,Low,100
+test,High,Medium,276
+test,Low,Low,315
+test,Medium,Low,720
+train,High,High,90
+train,High,Low,214
+train,High,Medium,783
+train,Low,Low,1087
+train,Medium,Low,1118
